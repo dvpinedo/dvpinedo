@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joan Pinedo</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **artificial intelligence and backend**
+- 🌱 I’m currently learning **everything**
 
 - 📝 I regularly write articles on [https://link.springer.com/chapter/10.1007/978-3-031-10539-5_17](https://link.springer.com/chapter/10.1007/978-3-031-10539-5_17)
+
+- ⚡When you innovate, you make mistakes. What makes the difference is realizing, correcting and continuing to innovate
 
 - 📫 How to reach me **dv.jpinedo@gmail.com**
 
