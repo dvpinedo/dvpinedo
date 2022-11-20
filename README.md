@@ -15,10 +15,7 @@
 <a href="https://instagram.com/dvpinedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dvpinedo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Github Stats</h3>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06unknownperson__&hide_border=true&layout=compact" align="center" /></div> 
 
-<br/>   
 
 <div align="center">
             <a href="https://paypal.me/joanpinedo" target="_blank" style="display: inline-block;">
