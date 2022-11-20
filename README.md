@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joan Pinedo</h1>
-<h3 align="center">A passionate software developer from Colombia</h3>
+<h3 align="center">I'm software developer</h3>
 
 - 🌱 I’m currently learning **everything**
 
